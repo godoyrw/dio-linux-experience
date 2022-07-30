@@ -3,9 +3,9 @@
 
 
 ## 🛡 Acessos
-<a href="https://web.dio.me/home"><img src="https://img.shields.io/badge/acesse a dio-dio.me-blueviolet"></a>
-<a href="[https://web.dio.me/home](https://www.linkedin.com/in/godoyrw/)"><img src="https://img.shields.io/badge/meu linkedin-dio.me-blue"></a>
-<a href="[https://web.dio.me/home](https://github.com/godoyrw)"><img src="https://img.shields.io/badge/meu github-godoy-red"></a>
+<a href="https://web.dio.me/home" target="_blank"><img src="https://img.shields.io/badge/acesse a dio-dio.me-blueviolet"></a>
+<a href="https://www.linkedin.com/in/godoyrw/" target="_blank"><img src="https://img.shields.io/badge/meu linkedin-dio.me-blue"></a>
+<a href="https://github.com/godoyrw" target="_blank"><img src="https://img.shields.io/badge/meu github-godoy-red"></a>
 
 
 <br><br>
