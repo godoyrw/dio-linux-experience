@@ -57,8 +57,14 @@ Meus Certificados na DIO:
 </p>
 
 <p>
-    <a href="https://www.dio.me/certificate/D037CD7A/" title="Introdução à Programação e Pensamento Computacional]" target="_blank">
+    <a href="https://www.dio.me/certificate/8ACCAD4E/" title="Introdução à Programação e Pensamento Computacional" target="_blank">
         <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução à Programação e Pensamento Computacional
+    </a>
+</p>
+
+<p>
+    <a href="https://www.dio.me/certificate/8ACCAD4E/" title="Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
     </a>
 </p>
 
