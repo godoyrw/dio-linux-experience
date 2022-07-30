@@ -23,7 +23,6 @@ Meus Certificados na DIO:
 <p>
     <a href="https://www.dio.me/certificate/B727925C/" title="Criando uma Aplicação Serverless na AWS" target="_blank">
         <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Criando uma Aplicação Serverless na AWS
-
     </a>
 </p>
 
