@@ -3,8 +3,9 @@
 
 
 ## 🛡 Acessos
-[![dio](https://img.shields.io/badge/acesse a dio-dio.me-blueviolet)](https://web.dio.me/home)
-[![linkedin](https://img.shields.io/badge/meu linkedin-dio.me-blue)](https://www.linkedin.com/in/godoyrw/)
+
+[![dio](https://img.shields.io/badge/acesse a dio-dio.me-blueviolet)](https://web.dio.me/home) 
+[![linkedin](https://img.shields.io/badge/meu linkedin-dio.me-blue)](https://www.linkedin.com/in/godoyrw/) 
 [![github](https://img.shields.io/badge/meu github-godoy-red)](https://github.com/godoyrw)
 
 <br><br>
