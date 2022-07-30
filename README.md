@@ -57,7 +57,7 @@ Meus Certificados na DIO:
 </p>
 
 <p>
-    <a href="https://www.dio.me/certificate/8ACCAD4E/" title="Introdução à Programação e Pensamento Computacional" target="_blank">
+    <a href="https://www.dio.me/certificate/D037CD7A/" title="Introdução à Programação e Pensamento Computacional" target="_blank">
         <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução à Programação e Pensamento Computacional
     </a>
 </p>
@@ -68,6 +68,17 @@ Meus Certificados na DIO:
     </a>
 </p>
 
+<p>
+    <a href="https://www.dio.me/certificate/8F7F34AF/" title="Linux Experience | Aula Inaugural" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Linux Experience | Aula Inaugural
+    </a>
+</p>
+
+<p>
+    <a href="https://www.dio.me/certificate/79E435B2/" title="Introdução ao Sistema Operacional Linux" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Sistema Operacional Linux
+    </a>
+</p>
 <br><br>
 
 ## ❤️ Agradecimentos 
