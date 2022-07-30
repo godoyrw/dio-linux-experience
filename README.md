@@ -21,14 +21,14 @@ https://web.dio.me/users/godoyrw
 Meus Certificados na DIO:
 
 <p>
-    <a href="https://www.dio.me/certificate/B727925C/" title="Criando uma Aplicação Serverless na AWS" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Criando uma Aplicação Serverless na AWS
+    <a href="https://www.dio.me/certificate/B727925C/" title="Serverless AWS" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Serverless AWS
     </a>
 </p>
 
 <p>
-    <a href="https://www.dio.me/certificate/77FC4B64/" title="Desenvolvimento Avançado em PHP" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Desenvolvimento Avançado em PHP
+    <a href="https://www.dio.me/certificate/77FC4B64/" title="PHP Avançado" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> PHP Avançado
     </a>
 </p>
 
@@ -65,7 +65,7 @@ Meus Certificados na DIO:
 <br><br>
 
 ## ❤️ Agradecimentos 
-Muito obrigado a todos os envonvidos em todas as áreas da plataforma DIO.
+Muito obrigado a todos os envonvidos em todas as áreas da plataforma DIO.<br />
 Disseminando o conhecimento de uma manéira fácil, acessivel e livre de preconceitos!
 
 <hr/>
