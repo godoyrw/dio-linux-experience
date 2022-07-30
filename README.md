@@ -20,19 +20,48 @@ https://web.dio.me/users/godoyrw
 
 Meus Certificados na DIO:
 
-####[![Serverless AWS](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/B727925C/ "Serverless AWS"){:target="_blank"} <b>[Serverless AWS](https://www.dio.me/certificate/B727925C/ "Serverless AWS"){:target="_blank"}</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/B727925C/" title="Serverless AWS" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Serverless AWS</a>
+    </a>
+</p>
 
-####[![PHP Avançado](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/77FC4B64/ "ServerlessPHP Avançado") <b>[PHP Avançado](https://www.dio.me/certificate/77FC4B64/ "ServerlessPHP Avançado")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/77FC4B64/" title="PHP Avançado" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> PHP Avançado</a>
+    </a>
+</p>
 
-####[![Conheça as Oportunidades da DIO](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/DD0BF554/ "ServerlessConheça as Oportunidades da DIO") <b>[Conheça as Oportunidades da DIO](https://www.dio.me/certificate/DD0BF554/ "ServerlessConheça as Oportunidades da DIO")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/DD0BF554/" title="Conheça as Oportunidades da DIO" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Conheça as Oportunidades da DIO</a>
+    </a>
+</p>
 
-####[![Seja Protagonista Neste Bootcamp](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/45DEDEC9/ "Seja Protagonista Neste Bootcamp") <b>[Seja Protagonista Neste Bootcamp](https://www.dio.me/certificate/45DEDEC9/ "Seja Protagonista Neste Bootcamp")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/45DEDEC9/" title="Seja Protagonista Neste Bootcamp" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Seja Protagonista Neste Bootcamp</a>
+    </a>
+</p>
 
-####[![Introdução ao GIT e GITHUb](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/856C1CF2/ "Introdução ao GIT e GITHUb") <b>[Introdução ao GIT e GITHUb](https://www.dio.me/certificate/856C1CF2/ "Introdução ao GIT e GITHUb")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/856C1CF2/" title="Introdução ao GIT e GITHUb" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao GIT e GITHUb</a>
+    </a>
+</p>
 
-####[![Introdução ao Desenvolvimento Moderno de Software](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/198C58EA/ "Introdução ao Desenvolvimento Moderno de Software") <b>[Introdução ao Desenvolvimento Moderno de Software](https://www.dio.me/certificate/198C58EA/ "Introdução ao Desenvolvimento Moderno de Software")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/198C58EA/" title="Introdução ao Desenvolvimento Moderno de Software" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Desenvolvimento Moderno de Software</a>
+    </a>
+</p>
 
-####[![Introdução à Programação e Pensamento Computacional](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/D037CD7A/ "Introdução à Programação e Pensamento Computacional") <b>[Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/D037CD7A/ "Introdução à Programação e Pensamento Computacional")</b>
+<p style="font-size: 18px; font-weight: bold;">
+    <a href="https://www.dio.me/certificate/D037CD7A/" title="Introdução à Programação e Pensamento Computacional]" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução à Programação e Pensamento Computacional]</a>
+    </a>
+</p>
+
 <br><br>
 
 ## ❤️ Agradecimentos 
