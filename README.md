@@ -20,45 +20,45 @@ https://web.dio.me/users/godoyrw
 
 Meus Certificados na DIO:
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/B727925C/" title="Serverless AWS" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Serverless AWS</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Serverless AWS
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/77FC4B64/" title="PHP Avançado" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> PHP Avançado</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> PHP Avançado
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/DD0BF554/" title="Conheça as Oportunidades da DIO" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Conheça as Oportunidades da DIO</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Conheça as Oportunidades da DIO
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
-    <a href="https://www.dio.me/certificate/45DEDEC9/" title="Seja Protagonista Neste Bootcamp" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Seja Protagonista Neste Bootcamp</a>
+<p>
+    <a href="https://www.dio.me/certificate/45DEDEC9/" title="Seja Protagonista Neste Bootcamp" target="_blank" style="font-size: 18px; font-weight: bold;">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Seja Protagonista Neste Bootcamp
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/856C1CF2/" title="Introdução ao GIT e GITHUb" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao GIT e GITHUb</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao GIT e GITHUb
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/198C58EA/" title="Introdução ao Desenvolvimento Moderno de Software" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Desenvolvimento Moderno de Software</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Desenvolvimento Moderno de Software
     </a>
 </p>
 
-<p style="font-size: 18px; font-weight: bold;">
+<p>
     <a href="https://www.dio.me/certificate/D037CD7A/" title="Introdução à Programação e Pensamento Computacional]" target="_blank">
-        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução à Programação e Pensamento Computacional]</a>
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução à Programação e Pensamento Computacional
     </a>
 </p>
 
