@@ -1,12 +1,12 @@
 # Diretório do Bootcamp - DIO Linux Experience
-<p>Diretorio Linux Experience: Projetos, codigos e estudos dos cusos realizados na plataforma DIO.</p>
+<p>Diretorio de projetos, codigos e estudos dos cusos realizados na plataforma DIO.</p>
 
 
 ## 🛡 Acessos
+<a href="https://web.dio.me/home"><img src="https://img.shields.io/badge/acesse a dio-dio.me-blueviolet"></a>
+<a href="[https://web.dio.me/home](https://www.linkedin.com/in/godoyrw/)"><img src="https://img.shields.io/badge/meu linkedin-dio.me-blue"></a>
+<a href="[https://web.dio.me/home](https://github.com/godoyrw)"><img src="https://img.shields.io/badge/meu github-godoy-red"></a>
 
-[![dio](https://img.shields.io/badge/acesse a dio-dio.me-blueviolet)](https://web.dio.me/home) 
-[![linkedin](https://img.shields.io/badge/meu linkedin-dio.me-blue)](https://www.linkedin.com/in/godoyrw/) 
-[![github](https://img.shields.io/badge/meu github-godoy-red)](https://github.com/godoyrw)
 
 <br><br>
 ## 📦 Me add na DIO
@@ -20,7 +20,7 @@ https://web.dio.me/users/godoyrw
 
 Meus Certificados na DIO:
 
-####[![Serverless AWS](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/B727925C/ "Serverless AWS") <b>[Serverless AWS](https://www.dio.me/certificate/B727925C/ "Serverless AWS")</b>
+####[![Serverless AWS](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/B727925C/ "Serverless AWS"){:target="_blank"} <b>[Serverless AWS](https://www.dio.me/certificate/B727925C/ "Serverless AWS"){:target="_blank"}</b>
 
 ####[![PHP Avançado](https://godahtech.com.br/web-defaults/seals/certificado_24.png)](https://www.dio.me/certificate/77FC4B64/ "ServerlessPHP Avançado") <b>[PHP Avançado](https://www.dio.me/certificate/77FC4B64/ "ServerlessPHP Avançado")</b>
 
