@@ -101,6 +101,18 @@ Meus Certificados na DIO:
         <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Instalando o Linux
     </a>
 </p>
+
+<p>
+    <a href="https://www.dio.me/certificate/B4138972/" title="Acesso Remoto a Máquinas Linux" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Acesso Remoto a Máquinas Linux
+    </a>
+</p>
+
+<p>
+    <a href="https://www.dio.me/certificate/69C08473/" title="Manipulando Arquivos no Linux" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Manipulando Arquivos no Linux
+    </a>
+</p>
 <br><br>
 
 ## ❤️ Agradecimentos 
