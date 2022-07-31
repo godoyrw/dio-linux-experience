@@ -7,12 +7,23 @@
 <a href="https://www.linkedin.com/in/godoyrw/" target="_blank"><img src="https://img.shields.io/badge/meu linkedin-dio.me-blue"></a>
 <a href="https://github.com/godoyrw" target="_blank"><img src="https://img.shields.io/badge/meu github-godoy-red"></a>
 
+<br><br>
+## 🧑‍💻 Sobre
+
+```bash
+CTO na Open Finance. https://goopen.com.br
+
+24 anos em desenvolvimento Desktop, Web e Mobile.
+Focado atualmente na gestão de projetos Ágil, Scrum e aplicações AWS.
+
+Apaixonado por: codificar, tecnologia, café, arte, design, música, correr(nem tanto hj em dia hahaha) e tatuagens!
+```
 
 <br><br>
 ## 📦 Me add na DIO
 
 ```bash
-https://web.dio.me/users/godoyrw
+<a href="https://web.dio.me/users/godoyrw" target="_blank">https://web.dio.me/users/godoyrw | @godoyrw</a>
 @godoyrw
 ```
 <br><br>
