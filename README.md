@@ -60,7 +60,11 @@ Meus Certificados na DIO:
     </a>
 </p>
 
-
+<p>
+    <a href="https://www.dio.me/certificate/856C1CF2/" title="Introdução ao Git e Github" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Git e Github
+    </a>
+</p>
 
 <p>
     <a href="https://www.dio.me/certificate/198C58EA/" title="Introdução ao Desenvolvimento Moderno de Software" target="_blank">
