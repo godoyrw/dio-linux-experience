@@ -95,6 +95,12 @@ Meus Certificados na DIO:
         <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Introdução ao Sistema Operacional Linux
     </a>
 </p>
+
+<p>
+    <a href="https://www.dio.me/certificate/F1C810A8/" title="Instalando o Linux" target="_blank">
+        <img src="https://godahtech.com.br/web-defaults/seals/certificado_24.png"> Instalando o Linux
+    </a>
+</p>
 <br><br>
 
 ## ❤️ Agradecimentos 
