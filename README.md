@@ -23,10 +23,10 @@ correr(nem tanto hj em dia hahaha) e tatuagens!
 <br><br>
 ## 📦 Me add na DIO
 
-```bash
 <a href="https://web.dio.me/users/godoyrw" target="_blank">godoyrw</a>
-```
+
 <br><br>
+
 ## 🖥 Certificados
 
 Meus Certificados na DIO:
