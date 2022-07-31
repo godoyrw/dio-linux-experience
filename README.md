@@ -16,15 +16,15 @@ CTO na Open Finance. https://goopen.com.br
 24 anos em desenvolvimento Desktop, Web e Mobile.
 Focado atualmente na gestão de projetos Ágil, Scrum e aplicações AWS.
 
-Apaixonado por: codificar, tecnologia, café, arte, design, música, correr(nem tanto hj em dia hahaha) e tatuagens!
+Apaixonado por: codificar, tecnologia, café, arte, design, música, 
+correr(nem tanto hj em dia hahaha) e tatuagens!
 ```
 
 <br><br>
 ## 📦 Me add na DIO
 
 ```bash
-<a href="https://web.dio.me/users/godoyrw" target="_blank">https://web.dio.me/users/godoyrw | @godoyrw</a>
-@godoyrw
+<a href="https://web.dio.me/users/godoyrw" target="_blank">godoyrw</a>
 ```
 <br><br>
 ## 🖥 Certificados
