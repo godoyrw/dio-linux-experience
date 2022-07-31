@@ -29,7 +29,7 @@ correr(nem tanto hj em dia hahaha) e tatuagens!
 
 <br><br>
 
-## 🖥 Certificados
+## 🥇 Certificados
 
 Meus Certificados na DIO:
 
