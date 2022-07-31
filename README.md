@@ -1,4 +1,4 @@
-# 🛡 Diretório do Bootcamp - DIO Linux Experience
+# 🛡 Diretório do Bootcamp - DIO Linux Experience 🛡
 <p>Diretorio de projetos, codigos e estudos dos cusos realizados na plataforma DIO.</p>
 
 
