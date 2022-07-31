@@ -3,9 +3,12 @@
 
 
 ## 🔗 Acessos
-<a href="https://web.dio.me/home" target="_blank"><img src="https://img.shields.io/badge/acesse a dio-dio.me-blueviolet"></a>
-<a href="https://www.linkedin.com/in/godoyrw/" target="_blank"><img src="https://img.shields.io/badge/meu linkedin-dio.me-blue"></a>
-<a href="https://github.com/godoyrw" target="_blank"><img src="https://img.shields.io/badge/meu github-godoy-red"></a>
+<a href="https://web.dio.me/home" target="_blank"><img src="https://img.shields.io/badge/dio-dio.me-blueviolet"></a>
+<a href="https://www.linkedin.com/in/godoyrw/" target="_blank"><img src="https://img.shields.io/badge/inkedin-godoyrw-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://github.com/godoyrw" target="_blank"><img src="https://img.shields.io/badge/github-godoyrw-red?style=flat-square&logo=github"></a>
+<a href="https://www.npmjs.com/~godoyrw" target="_blank"><img src="https://img.shields.io/badge/npm-godoyrw-orange?style=flat-square&logo=npm"></a>
+<a href="https://app.snyk.io/org/godoyrw/" target="_blank"><img src="https://img.shields.io/badge/snyk-godoyrw-4B46A9?style=flat-square&logo=snyk"></a>
+
 
 <br><br>
 ## 🧑‍💻 Sobre
