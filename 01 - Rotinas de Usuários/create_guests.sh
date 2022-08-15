@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 echo "create Guest Users..."
 
 useradd guest10 -c "Guest User" -s /bin/bash -m -p $(openssl passwd -crypt UmaSenha102030)
