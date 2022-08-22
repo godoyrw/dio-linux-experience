@@ -24,7 +24,7 @@ correr(nem tanto hj em dia hahaha) e tatuagens!
 ```
 
 <br><br>
-## 📦 Me add na DIO
+## 📦 Me add na DIO.ME
 
 <a href="https://web.dio.me/users/godoyrw" target="_blank">https://web.dio.me/users/godoyrw</a>
 <br>
